@@ -1,0 +1,26 @@
+/* .songs {
+    border-radius: 5px;
+    display: flex;
+    flex-direction: row;
+    width: 207%;
+    padding: 15px;
+    background-color: rgb(50, 195, 205);
+    justify-content:space-evenly;
+  }
+.lSongs{
+  
+  border-radius: 5px;
+  display: flex;
+  flex-direction: row;
+  width: 207%;
+  padding: 15px;
+  background-color: rgb(178, 230, 240);
+  justify-content:space-between;
+
+} */
+.input__box{
+  flex-direction: column;
+}
+.table-ss{
+  width: 70vw;
+}
